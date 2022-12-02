@@ -34,14 +34,14 @@ body{
     width: 20px;
     vertical-align: middle;
 }
-    
+
+#post{
+    background: white;
+    padding: 1em;
+}
+
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
-}
-
-#post{
-background: white;
-padding: 1em;
 }
