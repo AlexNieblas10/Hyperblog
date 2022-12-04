@@ -50,3 +50,12 @@ body{
     color: white;
     text-align: center;
 }
+
+
+#imagen{
+    text-align: center;
+}
+
+#imagen img{
+    width: 70%;
+}
