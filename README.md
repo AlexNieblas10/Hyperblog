@@ -15,6 +15,7 @@ Learning
 *Las personalidades múltiples de Alex
 *Creado por el increible platzi team
 *Incluye ejemplos en windows, linux y mac
+*disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado
 para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve la ver el.
